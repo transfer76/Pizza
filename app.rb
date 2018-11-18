@@ -6,7 +6,7 @@ require 'sinatra/activerecord'
 
 set :database, "sqlite3:pizz.db"
 
-class Product < Activerecord::Base
+class Product < ActiveRecord::Base
 end	
 
 get '/' do
