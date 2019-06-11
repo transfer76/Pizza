@@ -1,3 +1,4 @@
 
 pizz.db
 db/migrate/20181118210541_add_products.rb
+.idea
